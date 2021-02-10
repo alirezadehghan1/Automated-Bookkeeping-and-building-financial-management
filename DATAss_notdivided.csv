@@ -1,0 +1,56 @@
+date,amount,category,subcategory,resunit,relateunit,divtype,des
+1395/1/1,100000,ghabz,avarez,3,"4,2,3",d,
+1395/2/1,100000,ghabz,ab,3,"4,2,3",e,
+1395/2/1,100000,ghabz,bargh,3,"4,2,3",e,
+1395/3/1,200000,ghabz,gas,3,"4,2,3,5,1",e,
+1395/2/1,150000,ghabz,ab,3,all,e,
+1395/5/5,150000,hazine_parking,undefined,3,all,e,
+1395/6/5,170000,nezafat,undefined,3,all,e,
+1395/6/5,170000,other,undefined,3,all,a,
+1395/7/5,170000,ghabz,ab,undefined,3,all,d hame parakht mikonan
+1395/6/5,170000,sharj,undefined,3,1,d,
+1395/12/1,170000,sharj,undefined,3,2,d,
+1395/12/1,17000,sharj,undefined,3,3,d,khodam kamtar midam
+1395/12/1,170000,sharj,undefined,3,4,d,
+1395/12/1,170000,sharj,undefined,3,5,d,
+1395/12/1,170000,sharj,undefined,3,6,d,
+1395/12/1,170000,sharj,undefined,3,7,d,
+1395/12/1,170000,sharj,undefined,3,8,d,
+1395/12/1,170000,sharj,undefined,3,9,d,
+1395/12/1,170000,sharj,undefined,3,10,d,
+1395/12/6,170000,sharj,undefined,3,10,d,male mahe ghabk
+1395/1/1,100000,ghabz,avarez,3,"4,2,3",d,
+1395/1/1,100000,ghabz,ab,3,"4,2,3",d,
+1395/1/1,100000,ghabz,bargh,3,"4,2,3",d,
+1395/1/1,100000,ghabz,avarez,3,all,d,
+1395/1/1,100000,ghabz,gas,3,all,d,
+1396/1/2,120000,nezafat,undefined,3,all,r,
+1396/1/2,120000,hazine_parking,undefined,3,all,r,
+1396/2/2,1200000,other,undefined,3,all,r,tamiz kardane panjere
+1396/2/2,1200000,other,undefined,3,all,r,
+1396/2/2,1200000,other,undefined,3,all,d,
+1397/01/13,2900000,ghabz,bargh,3,2,a,
+1397/01/28,3000000,ghabz,avarez,3,"2,4,5,3,8",10-10-20-30-30,bi dalil haminjoori
+1397/02/07,1000000,ghabz,gas,3,all,default,vase mahe avval
+1397/02/31,200000,other,undefined,3,all,d,baraye golhaye loby
+1397/03/01,5000000,sharj,undefined,3,all,d,
+1397/03/20,1000000,asansoor,undefined,3,4,d,khesarat
+1397/04/03,50000,other,undefined,3,1,d,baraye pelleye tabaghe 1
+1397/04/23,10000000,ghabz,ab,3,all,d,bekhatere cooler abi
+1397/04/23,7000000,ghabz,bargh,3,all,e,masrafe ziade bargh!!!
+1397/05/09,5000000,hazine_parking,undefined,3,"3,10",p,hazine tamirate parking
+1397/06/31,4000000,tamirat,undefined,3,"3,8,6,4,1",e,tamirate motorkhune!
+1397/07/30,2500000,hazine_parking,undefined,3,all,default,
+1397/10/09,20000000,ghabz,bargh,3,all,d,male chan mahe
+1397/12/12,200000,ghabz,avarez,3,"1,3,8",default,
+1397/12/27,1500000,ghabz,avarez,3,all,e,
+1398/01/13,150000,ghabz,bargh,3,all,e,
+1398/01/29,1000000,nezafat,undefined,3,"1,5",d,
+1398/02/17,5000000,sharj,undefined,3,"3,1,4",a,
+1398/05/29,1000000,hazine_parking,undefined,3,all,p,
+1398/07/17,100000,nezafat,undefined,3,"2,3,4",d,
+1398/09/27,230000,nezafat,undefined,3,"2,6,8,9",p,
+1398/10/01,2192000,hazine_parking,undefined,3,all,p,
+1398/11/16,1289431,ghabz,ab,3,all,r,
+1398/11/29,2837184,ghabz,gas,3,all,r,
+1398/12/25,1000000,ghabz,avarez,3,all,5-5-5-5-1-4-2-3-40-30,nothing
