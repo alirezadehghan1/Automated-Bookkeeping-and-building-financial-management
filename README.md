@@ -1,2 +1,4 @@
-# Python programming project
+# Python programming Course project
 Designing a program to aid building administrators in effectively managing financial matters.
+
+This project involved developing an automated building management system to assist building apartments managers assistant with financial tasks like efficiently tracking expenses and generating reports. The program takes in transaction information like date, amount, category, and responsible party. It stores this data and can generate graphical reports for expense analysis and forecasting, showing expense breakdowns over time, across categories, and per tenant unit. Key features include adding new transactions, analyzing past spending, estimating future budget projections based on inflation, and dividing expenses by tenant units. The tool aims to save building managers time by automating manual financial tracking and analysis, also to give them better insight into their building finances. 
